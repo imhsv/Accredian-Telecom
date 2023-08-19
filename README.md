@@ -19,4 +19,4 @@ Leaders at Accredian Telecom understand that customising offerings is very impor
 
 # Analysis and Model Evaluation
  The all works done in notebooks.
- [Project] https://github.com/imhsv/Accredian-Telecom/blob/main/latest_event_model%20(5).ipynb
+ [Project] (https://github.com/imhsv/Accredian-Telecom/blob/main/latest_event_model%20(5).ipynb)
