@@ -18,5 +18,6 @@ Leaders at Accredian Telecom understand that customising offerings is very impor
 [Data]
 
 # Analysis and Model Evaluation
- The all works done in notebooks.
-[Data Science](https://github.com/imhsv/Accredian-Telecom/blob/main/latest_event_model%20(5).ipynb)
+ The work is done in notebooks.
+
+[Project](https://github.com/imhsv/Accredian-Telecom/blob/main/latest_event_model%20(5).ipynb)
