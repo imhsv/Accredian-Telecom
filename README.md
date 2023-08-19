@@ -13,3 +13,10 @@ Leaders at Accredian Telecom understand that customising offerings is very impor
 
 # Problem Analysis (Strategy for the Problem Statement Analysis)
 ![roadmap](https://github.com/imhsv/Accredian-Telecom/assets/114226899/bb96261c-1a21-4176-bfa6-5ee7a948e3a6)
+
+# Data
+[Data]
+
+# Analysis and Model Evaluation
+ The all works done in notebooks.
+ [Project] https://github.com/imhsv/Accredian-Telecom/blob/main/latest_event_model%20(5).ipynb
